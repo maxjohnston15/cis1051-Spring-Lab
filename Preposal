@@ -1,0 +1,19 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+I would like to utilize turtle functions because I think they can be well utilized in loops and functions which will show my
+coding ability, and I quite enjoy using them. My idea is to create a somewhat interactive comic strip. I can make a short story
+about a turtle drawn character (stick figure of sorts with animation) that can respond to user inputs. If it is not possible
+to have user inputs on the same turtle screen, and only able to do that before hand then all of the user prompts will come up
+at the start. These user prompts can include a choices on what type of character should be displayed (male, female, blonde, 
+brunette, tall short, etc.) and what repond the character will do, i.e. decisions the character will make when faced with
+obstacles. Or it can be as simple as the character walking vs. running. vs jumping. etc. Not sure how advanced it needs to be.
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+Solo
+
+## Do you have any questions of your own?
+
+Aside from complexity desired, I am curious if the same turtle screen can have new inputs after it draws a figure?
